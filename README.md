@@ -1,4 +1,4 @@
-## Welcome to my world! Im Rebecca Tshangela 
+### Welcome to my world! Im Rebecca Tshangela 
 
 Youcan use the [editor on GitHub](https://github.com/rebecca-create/RebeccaTshangela/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
